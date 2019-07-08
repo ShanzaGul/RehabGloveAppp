@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "75275196030",
+    "firebase_url": "https://rehabglove.firebaseio.com",
+    "project_id": "rehabglove",
+    "storage_bucket": "rehabglove.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75275196030:android:f6b1f149b0458534",
+        "android_client_info": {
+          "package_name": "com.example.rehab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75275196030-q3sdod606l9l7fmhc40lrituv2dmutbg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rehab",
+            "certificate_hash": "a404b2db4853b43e2a157583152cef115cad0aaa"
+          }
+        },
+        {
+          "client_id": "75275196030-ljpc5g8a73mnsmvmrm021fqv9betji5h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlybYSMNOWyoumrRFFBnWxUvmFyuccBmw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75275196030-ljpc5g8a73mnsmvmrm021fqv9betji5h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
